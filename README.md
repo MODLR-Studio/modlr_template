@@ -1,3 +1,6 @@
+> ⚡ This is the baseline MØDLR Studio template.  
+> Use this template to create new add-on repos.
+
 # MØDLR Template Repo
 
 > Baseline template for new MØDLR Studio repositories.
